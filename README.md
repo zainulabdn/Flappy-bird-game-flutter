@@ -3,7 +3,7 @@
 This is a Flappy Bird game built in Flutter using the Flame engine.
 
 
-## View
+## Video
 ![Flappy Bird Game GIF](https://github.com/zainulabdn/Flappy-bird-game-flutter/raw/main/assets/video.gif)
 
 
