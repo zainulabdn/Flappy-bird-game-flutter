@@ -22,3 +22,7 @@ samples, guidance on mobile development, and a full API reference.
 
 🤝 Contributing
 Feel free to fork this project, open issues, or submit pull requests to contribute or improve the game!
+
+
+📜 License
+This project is licensed under the MIT License.
