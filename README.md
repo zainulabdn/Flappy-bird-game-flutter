@@ -20,6 +20,19 @@ For help getting started with Flutter development, please take a look at the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+🛠️ Resources for Flutter Beginners
+If you're new to Flutter, here are some helpful resources:
+
+Write your first Flutter app (Codelab)
+
+Flutter Cookbook (Sample recipes)
+
+Flutter Official Documentation
+
+Flame Engine Documentation
+
+
+
 🤝 Contributing
 Feel free to fork this project, open issues, or submit pull requests to contribute or improve the game!
 
